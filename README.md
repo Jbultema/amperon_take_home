@@ -1,4 +1,4 @@
-# Data Science Assignment
+# Peak Energy Load Prediction Assignment
 
 ## Overview
 This project is based on a data science take-home project focused on load forecasting using temperature data. The assignment involves the use of time series forecasting techniques to analyze kWh (kilowatt-hour) data and temperature data in order to predict the peak-load each day.
