@@ -31,6 +31,3 @@ To run the analysis:
 
 ## Author
 Jarred Bultema, PhD
-
-## Acknowledgments
-This project was completed as part of [Details about the course/assignment, if relevant].
